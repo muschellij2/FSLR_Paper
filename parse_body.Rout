@@ -1,0 +1,45 @@
+
+R version 3.1.1 (2014-07-10) -- "Sock it to Me"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin13.1.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+Revolution R Open 8.0 beta
+The enhanced R distribution from Revolution Analytics
+Visit mran.revolutionanalytics.com/open for information
+about additional features and technical support options.
+
+Loading required package: colorout
+[Previously saved workspace restored]
+
+> parse_body = function(file, outfname) {
++   x = readLines(file)
++   start = grep("\\\\begin\\{\\s*article\\s*\\}", x)
++   stopifnot(length(start) > 0)
++   x = x[seq(start, length(x))]
++   x[1] = gsub("\\\\begin\\{\\s*article\\s*\\}", "", x[1])
++   end = grep("\\\\end\\{\\s*article\\s*\\}", x)
++   stopifnot(length(end) > 0)  
++   x = x[seq(1, end)]
++   x[length(x)] = gsub("\\\\end\\{\\s*article\\s*\\}", "", x[length(x)])
++   writeLines(x, con= outfname)
++   invisible()
++ }
+> parse_body("muschelli_FSLR.tex", "muschelli.tex")
+> 
+> proc.time()
+   user  system elapsed 
+  0.354   0.040   0.594 

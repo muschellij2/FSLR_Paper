@@ -1,0 +1,202 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Andersson et~al.(2007)Andersson, Jenkinson, Smith, and
+  {others}]{andersson_non-linear_2007}
+J.~L. Andersson, M.~Jenkinson, S.~Smith, and {others}.
+\newblock Non-linear registration, aka spatial normalisation {FMRIB} technical
+  report {TR}07ja2.
+\newblock \emph{{FMRIB} Analysis Group of the University of Oxford}, 2007.
+\newblock URL
+  \url{http://fmrib.medsci.ox.ac.uk/analysis/techrep/tr07ja2/tr07ja2.pdf}.
+
+\bibitem[Avants et~al.(2011)Avants, Tustison, Song, Cook, Klein, and
+  Gee]{avants_reproducible_2011}
+B.~B. Avants, N.~J. Tustison, G.~Song, P.~A. Cook, A.~Klein, and J.~C. Gee.
+\newblock A reproducible evaluation of {ANTs} similarity metric performance in
+  brain image registration.
+\newblock \emph{{NeuroImage}}, 54\penalty0 (3):\penalty0 2033--2044, feb 2011.
+\newblock ISSN 1053-8119.
+\newblock \doi{10.1016/j.neuroimage.2010.09.025}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1053811910012061}.
+
+\bibitem[Bordier et~al.(2011)Bordier, Dojat, de~Micheaux, and
+  {others}]{bordier_temporal_2011}
+C.~Bordier, M.~Dojat, P.~L. de~Micheaux, and {others}.
+\newblock Temporal and spatial independent component analysis for {fMRI} data
+  sets embedded in the {AnalyzeFMRI} r package.
+\newblock \emph{Journal of Statistical Software}, 44\penalty0 (9):\penalty0
+  1--24, 2011.
+\newblock URL \url{http://www.hal.inserm.fr/inserm-00659425/}.
+
+\bibitem[Clayden(2013)]{modat_rniftyreg:_2013}
+J.~Clayden.
+\newblock \emph{RNiftyReg: Medical image registration using the NiftyReg
+  library, based on original code by Marc Modat and Pankaj Daga}, 2013.
+\newblock URL \url{http://CRAN.R-project.org/package=RNiftyReg}.
+\newblock R package version 1.1.2.
+
+\bibitem[Gorgolewski et~al.(2011)Gorgolewski, Burns, Madison, Clark, Halchenko,
+  Waskom, and Ghosh]{gorgolewski_nipype:_2011}
+K.~Gorgolewski, C.~D. Burns, C.~Madison, D.~Clark, Y.~O. Halchenko, M.~L.
+  Waskom, and S.~S. Ghosh.
+\newblock Nipype: a flexible, lightweight and extensible neuroimaging data
+  processing framework in python.
+\newblock \emph{Frontiers in neuroinformatics}, 5, 2011.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pmc/articles/pmc3159964/}.
+
+\bibitem[Grabner et~al.(2006)Grabner, Janke, Budge, Smith, Pruessner, and
+  Collins]{hutchison_symmetric_2006}
+G.~Grabner, A.~L. Janke, M.~M. Budge, D.~Smith, J.~Pruessner, and D.~L.
+  Collins.
+\newblock Symmetric atlasing and model based segmentation: An application to
+  the hippocampus in older adults.
+\newblock In D.~Hutchison, T.~Kanade, J.~Kittler, J.~M. Kleinberg, F.~Mattern,
+  J.~C. Mitchell, M.~Naor, O.~Nierstrasz, C.~P. Rangan, B.~Steffen, M.~Sudan,
+  D.~Terzopoulos, D.~Tygar, M.~Y. Vardi, G.~Weikum, R.~Larsen, M.~Nielsen, and
+  J.~Sporring, editors, \emph{Medical Image Computing and Computer-Assisted
+  Intervention – {MICCAI} 2006}, volume 4191, pages 58--66. Springer Berlin
+  Heidelberg, Berlin, Heidelberg, 2006.
+\newblock ISBN 978-3-540-44727-6, 978-3-540-44728-3.
+\newblock URL \url{http://link.springer.com/10.1007/11866763_8}.
+
+\bibitem[Guillemaud and Brady(1997)]{guillemaud_estimating_1997}
+R.~Guillemaud and M.~Brady.
+\newblock Estimating the bias field of {MR} images.
+\newblock \emph{Medical Imaging, {IEEE} Transactions on}, 16\penalty0
+  (3):\penalty0 238--251, 1997.
+\newblock URL
+  \url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=585758}.
+
+\bibitem[Hastie and Tibshirani(1990)]{hastie_generalized_1990}
+T.~J. Hastie and R.~J. Tibshirani.
+\newblock \emph{Generalized additive models}, volume~43.
+\newblock {CRC} Press, 1990.
+\newblock URL
+  \url{http://books.google.com/books?hl=en&lr=&id=qa29r1Ze1coC&oi=fnd&pg=PR13&dq=generalized+additive+models&ots=j3YSfqBWoR&sig=9WE9tUp7uoXJtjwCmcSLvtvSr_g}.
+
+\bibitem[Jenkinson and Smith(2001)]{jenkinson_global_2001}
+M.~Jenkinson and S.~Smith.
+\newblock A global optimisation method for robust affine registration of brain
+  images.
+\newblock \emph{Medical image analysis}, 5\penalty0 (2):\penalty0 143--156,
+  2001.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1361841501000366}.
+
+\bibitem[Jenkinson et~al.(2002)Jenkinson, Bannister, Brady, and
+  Smith]{jenkinson_improved_2002}
+M.~Jenkinson, P.~Bannister, M.~Brady, and S.~Smith.
+\newblock Improved optimization for the robust and accurate linear registration
+  and motion correction of brain images.
+\newblock \emph{Neuroimage}, 17\penalty0 (2):\penalty0 825--841, 2002.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1053811902911328}.
+
+\bibitem[Jenkinson et~al.(2005)Jenkinson, Pechaud, and
+  Smith]{jenkinson_bet2:_2005}
+M.~Jenkinson, M.~Pechaud, and S.~Smith.
+\newblock {BET}2: {MR}-based estimation of brain, skull and scalp surfaces.
+\newblock In \emph{Eleventh annual meeting of the organization for human brain
+  mapping}, volume~17, 2005.
+\newblock URL \url{http://mickaelpechaud.free.fr/these/HBM05.pdf}.
+
+\bibitem[Jenkinson et~al.(2012)Jenkinson, Beckmann, Behrens, Woolrich, and
+  Smith]{jenkinson_fsl_2012}
+M.~Jenkinson, C.~F. Beckmann, T.~E.~J. Behrens, M.~W. Woolrich, and S.~M.
+  Smith.
+\newblock {FSL}.
+\newblock \emph{{NeuroImage}}, 62\penalty0 (2):\penalty0 782--790, aug 2012.
+\newblock ISSN 1053-8119.
+\newblock \doi{10.1016/j.neuroimage.2011.09.015}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1053811911010603}.
+
+\bibitem[Popescu et~al.(2012)Popescu, Battaglini, Hoogstrate, Verfaillie,
+  Sluimer, van Schijndel, van Dijk, Cover, Knol, Jenkinson, Barkhof,
+  de~Stefano, and Vrenken]{popescu_optimizing_2012}
+V.~Popescu, M.~Battaglini, W.~S. Hoogstrate, S.~C.~J. Verfaillie, I.~C.
+  Sluimer, R.~A. van Schijndel, B.~W. van Dijk, K.~S. Cover, D.~L. Knol,
+  M.~Jenkinson, F.~Barkhof, N.~de~Stefano, and H.~Vrenken.
+\newblock Optimizing parameter choice for {FSL}-brain extraction tool ({BET})
+  on 3d t1 images in multiple sclerosis.
+\newblock \emph{{NeuroImage}}, 61\penalty0 (4):\penalty0 1484--1494, jul 2012.
+\newblock ISSN 1053-8119.
+\newblock \doi{10.1016/j.neuroimage.2012.03.074}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1053811912003552}.
+
+\bibitem[Sled et~al.(1998)Sled, Zijdenbos, and Evans]{sled_nonparametric_1998}
+J.~G. Sled, A.~P. Zijdenbos, and A.~C. Evans.
+\newblock A nonparametric method for automatic correction of intensity
+  nonuniformity in {MRI} data.
+\newblock \emph{Medical Imaging, {IEEE} Transactions on}, 17\penalty0
+  (1):\penalty0 87--97, 1998.
+\newblock URL
+  \url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=668698}.
+
+\bibitem[Smith(2002)]{smith_fast_2002}
+S.~M. Smith.
+\newblock Fast robust automated brain extraction.
+\newblock \emph{Human brain mapping}, 17\penalty0 (3):\penalty0 143--155, nov
+  2002.
+\newblock ISSN 1065-9471.
+\newblock \doi{10.1002/hbm.10062}.
+
+\bibitem[Tabelow and Polzehl(2011)]{tabelow_statistical_2011}
+K.~Tabelow and J.~Polzehl.
+\newblock Statistical parametric maps for functional {MRI} experiments in r:
+  The package fmri.
+\newblock \emph{Journal of Statistical Software}, 44\penalty0 (11):\penalty0
+  1--21, 2011.
+\newblock URL \url{http://www.jstatsoft.org/v44/i11/paper}.
+
+\bibitem[Tustison et~al.(2010)Tustison, Avants, Cook, Zheng, Egan, Yushkevich,
+  and Gee]{tustison_n4itk:_2010}
+N.~J. Tustison, B.~B. Avants, P.~A. Cook, Y.~Zheng, A.~Egan, P.~A. Yushkevich,
+  and J.~C. Gee.
+\newblock N4itk: improved n3 bias correction.
+\newblock \emph{Medical Imaging, {IEEE} Transactions on}, 29\penalty0
+  (6):\penalty0 1310--1320, 2010.
+\newblock URL
+  \url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5445030}.
+
+\bibitem[Whitcher et~al.(2011)Whitcher, Schmid, and
+  Thornton]{whitcher_working_2011}
+B.~Whitcher, V.~J. Schmid, and A.~Thornton.
+\newblock Working with the {DICOM} and {NIfTI} data standards in r.
+\newblock \emph{Journal of Statistical Software}, 44\penalty0 (6):\penalty0
+  1--28, 2011.
+\newblock URL \url{http://www.jstatsoft.org/v44/i06/paper}.
+
+\bibitem[Wickham(2009)]{wickham_ggplot2:_2009}
+H.~Wickham.
+\newblock \emph{ggplot2: elegant graphics for data analysis}.
+\newblock Springer, 2009.
+\newblock URL
+  \url{http://books.google.com/books?hl=en&lr=&id=bes-AAAAQBAJ&oi=fnd&pg=PR5&dq=ggplot2:+elegant+graphics+for+data+analysis&ots=SA8_QA6NOO&sig=iAb1q3tX5ZkAh0lUHl2uPiySFdI}.
+
+\bibitem[Wood(2011)]{wood_fast_2011}
+S.~N. Wood.
+\newblock Fast stable restricted maximum likelihood and marginal likelihood
+  estimation of semiparametric generalized linear models.
+\newblock \emph{Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 73\penalty0 (1):\penalty0 3--36, 2011.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9868.2010.00749.x/full}.
+
+\bibitem[Zhang et~al.(2001)Zhang, Brady, and Smith]{zhang_segmentation_2001}
+Y.~Zhang, M.~Brady, and S.~Smith.
+\newblock Segmentation of brain {MR} images through a hidden markov random
+  field model and the expectation-maximization algorithm.
+\newblock \emph{Medical Imaging, {IEEE} Transactions on}, 20\penalty0
+  (1):\penalty0 45--57, 2001.
+\newblock URL
+  \url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=906424}.
+
+\end{thebibliography}

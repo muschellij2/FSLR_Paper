@@ -1,0 +1,14 @@
+\BOOKMARK [0][-]{section*.1}{fslr: Connecting the FSL Software with R}{}% 1
+\BOOKMARK [1][-]{section.2.1}{Introduction}{section*.1}% 2
+\BOOKMARK [1][-]{section.2.2}{fslr Workflow}{section*.1}% 3
+\BOOKMARK [2][-]{subsection.2.2.1}{fslr Setup}{section.2.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.2}{Image Preprocessing with fslr}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.3}{Bias-Field Correction}{section.2.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Within-Visit Co-registration}{section*.1}% 7
+\BOOKMARK [1][-]{section.2.4}{Between-Visit Co-registration}{section*.1}% 8
+\BOOKMARK [1][-]{section.2.5}{Brain Extraction}{section*.1}% 9
+\BOOKMARK [1][-]{section.2.6}{Registration to the MNI Template}{section*.1}% 10
+\BOOKMARK [2][-]{subsection.2.6.1}{Applying Transformations to Co-registered Data}{section.2.6}% 11
+\BOOKMARK [1][-]{section.2.7}{Conclusion}{section*.1}% 12
+\BOOKMARK [1][-]{section.2.8}{Supplemental Material}{section*.1}% 13
+\BOOKMARK [2][-]{subsection.2.8.1}{Additional fslr Functionality}{section.2.8}% 14
