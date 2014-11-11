@@ -6,4 +6,5 @@ RJwrapper.pdf: muschelli_FSLR.tex muschelli_FSLR.Rnw FSLR.bib
 	bibtex RJwrapper
 	pdflatex RJwrapper
 	pdflatex RJwrapper
+	pdflatex RJwrapper
 	open RJwrapper.pdf

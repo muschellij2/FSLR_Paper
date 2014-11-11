@@ -42,4 +42,4 @@ Loading required package: colorout
 > 
 > proc.time()
    user  system elapsed 
-  0.354   0.040   0.594 
+  0.263   0.029   0.282 

@@ -3,6 +3,7 @@
 \backcite {zhang_segmentation_2001}{{1}{2.1}{section.2.1}}
 \backcite {jenkinson_global_2001}{{1}{2.1}{section.2.1}}
 \backcite {jenkinson_improved_2002}{{1}{2.1}{section.2.1}}
+\backcite {carp_secret_2012}{{1}{2.1}{section.2.1}}
 \backcite {bordier_temporal_2011}{{1}{2.1}{section.2.1}}
 \backcite {modat_rniftyreg:_2013}{{1}{2.1}{section.2.1}}
 \backcite {tabelow_statistical_2011}{{1}{2.1}{section.2.1}}
@@ -19,9 +20,9 @@
 \backcite {smith_fast_2002}{{5}{2.5}{section.2.5}}
 \backcite {jenkinson_bet2:_2005}{{5}{2.5}{section.2.5}}
 \backcite {popescu_optimizing_2012}{{5}{2.5}{section.2.5}}
-\backcite {hutchison_symmetric_2006}{{7}{2.6}{section.2.6}}
-\backcite {jenkinson_fsl_2012}{{7}{2.6}{section.2.6}}
-\backcite {andersson_non-linear_2007}{{7}{2.6}{section.2.6}}
+\backcite {hutchison_symmetric_2006}{{6}{2.6}{section.2.6}}
+\backcite {jenkinson_fsl_2012}{{6}{2.6}{section.2.6}}
+\backcite {andersson_non-linear_2007}{{6}{2.6}{section.2.6}}
 \backcite {gorgolewski_nipype:_2011}{{8}{2.7}{section.2.7}}
 \backcite {sled_nonparametric_1998}{{8}{2.7}{section.2.7}}
 \backcite {tustison_n4itk:_2010}{{8}{2.7}{section.2.7}}

@@ -4,7 +4,7 @@ x = read.bib("FSLR.bib")
 x$note = lapply(x$note, function(x) NULL)
 nifty = citation("RNiftyReg")
 ind = which(x$key == 'modat_rniftyreg:_2013')
-x = x[-ind]
+if (length(ind) > 0) x = x[-ind]
 nifty$key = 'modat_rniftyreg:_2013'
 auths = nifty$author 
 nifty$author = nifty$author[1]

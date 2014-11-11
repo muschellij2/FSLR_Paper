@@ -23,13 +23,15 @@ Visit mran.revolutionanalytics.com/open for information
 about additional features and technical support options.
 
 Loading required package: colorout
+[Previously saved workspace restored]
+
 > library(bibtex)
 > x = read.bib("FSLR.bib")
 > 
 > x$note = lapply(x$note, function(x) NULL)
 > nifty = citation("RNiftyReg")
 > ind = which(x$key == 'modat_rniftyreg:_2013')
-> x = x[-ind]
+> if (length(ind) > 0) x = x[-ind]
 > nifty$key = 'modat_rniftyreg:_2013'
 > auths = nifty$author 
 > nifty$author = nifty$author[1]
@@ -39,9 +41,9 @@ Loading required package: colorout
 > nifty$title = paste0(nifty$title, ", ", auths)
 > x = c(x, nifty)
 > write.bib(entry=x, file= "FSLR.bib")
-Writing 23 Bibtex entries ... OK
+Writing 24 Bibtex entries ... OK
 Results written to file 'FSLR.bib'
 > 
 > proc.time()
    user  system elapsed 
-  0.481   0.031   0.517 
+  0.471   0.031   0.489 

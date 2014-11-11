@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: RJwrapper.aux
 The style file: abbrvnat.bst
 Database file #1: FSLR.bib
-You've used 21 entries,
+You've used 22 entries,
             2773 wiz_defined-function locations,
-            742 strings with 10590 characters,
-and the built_in function-call counts, 11590 in all, are:
-= -- 1027
-> -- 831
-< -- 12
-+ -- 279
-- -- 258
-* -- 1078
-:= -- 1861
-add.period$ -- 93
-call.type$ -- 21
-change.case$ -- 140
-chr.to.int$ -- 21
-cite$ -- 42
-duplicate$ -- 442
-empty$ -- 804
-format.name$ -- 287
-if$ -- 2353
+            749 strings with 10800 characters,
+and the built_in function-call counts, 12024 in all, are:
+= -- 1074
+> -- 841
+< -- 13
++ -- 283
+- -- 261
+* -- 1114
+:= -- 1929
+add.period$ -- 99
+call.type$ -- 22
+change.case$ -- 144
+chr.to.int$ -- 22
+cite$ -- 44
+duplicate$ -- 462
+empty$ -- 844
+format.name$ -- 291
+if$ -- 2444
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 22
-newline$ -- 142
-num.names$ -- 86
-pop$ -- 238
+missing$ -- 23
+newline$ -- 150
+num.names$ -- 90
+pop$ -- 242
 preamble$ -- 1
-purify$ -- 122
+purify$ -- 125
 quote$ -- 0
-skip$ -- 347
+skip$ -- 359
 stack$ -- 0
-substring$ -- 386
-swap$ -- 37
+substring$ -- 413
+swap$ -- 39
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 221
+type$ -- 232
 warning$ -- 0
-while$ -- 95
+while$ -- 100
 width$ -- 0
-write$ -- 338
+write$ -- 357

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.17)  4 NOV 2014 01:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.17)  11 NOV 2014 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1359,32 +1359,30 @@ Package microtype Info: Character `textendash ' is missing
 Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/m/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 20.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 41.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 25.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 41.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 41.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 25.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 41.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 41.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1395,34 +1393,36 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 25.
+(Font)              scaled to size 7.29405pt on input line 41.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 25.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 25.
+(Font)              scaled to size 5.21004pt on input line 41.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 25.
+(Font)              scaled to size 7.29405pt on input line 41.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 25.
+(Font)              scaled to size 5.21004pt on input line 41.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 54.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 59.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 25.
+(Font)              scaled to size 9.37807pt on input line 59.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 43.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 78.
  [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    Font shape `T1/zi4/bx/n' in size <9> not available
-(Font)              Font shape `T1/zi4/b/n' tried instead on input line 51.
+(Font)              Font shape `T1/zi4/b/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
-(Font)              scaled to size 9.18004pt on input line 51.
+(Font)              scaled to size 9.18004pt on input line 87.
 Package microtype Info: Character `textendash ' is missing
 (microtype)             in font `T1/zi4/b/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1430,255 +1430,254 @@ Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/b/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (64.33461pt too wide) in paragraph at lines 86--86
-[][]\T1/zi4/b/n/9 fsl_biascorrect[][]\T1/zi4/m/n/9 ([][]file[] []=[] []"01-Base
-line_T1.nii.gz"[][],[] []opts[][]=[] []"-v"[][],[][]outfile[][]=[] []"01-Baseli
-ne_T1_FSL_BiasCorrect"[][],)[][] 
- []
-
-<figure/T1_Ortho.png, id=129, 481.8pt x 481.8pt>
+<figure/T1_Ortho.png, id=133, 481.8pt x 481.8pt>
 File: figure/T1_Ortho.png Graphic file (type png)
  <use figure/T1_Ortho.png>
-Package pdftex.def Info: figure/T1_Ortho.png used on input line 111.
+Package pdftex.def Info: figure/T1_Ortho.png used on input line 133.
 (pdftex.def)             Requested size: 123.48398pt x 123.47858pt.
 
-<figure/BC_T1_Ortho.png, id=131, 481.8pt x 481.8pt>
+<figure/BC_T1_Ortho.png, id=135, 481.8pt x 481.8pt>
 File: figure/BC_T1_Ortho.png Graphic file (type png)
 
 <use figure/BC_T1_Ortho.png>
-Package pdftex.def Info: figure/BC_T1_Ortho.png used on input line 116.
+Package pdftex.def Info: figure/BC_T1_Ortho.png used on input line 138.
 (pdftex.def)             Requested size: 123.48398pt x 123.47858pt.
 
-<figure/plot_bc_data.pdf, id=132, 505.89pt x 505.89pt>
+<figure/plot_bc_data.pdf, id=136, 505.89pt x 505.89pt>
 File: figure/plot_bc_data.pdf Graphic file (type pdf)
 
 <use figure/plot_bc_data.pdf>
-Package pdftex.def Info: figure/plot_bc_data.pdf used on input line 121.
+Package pdftex.def Info: figure/plot_bc_data.pdf used on input line 143.
 (pdftex.def)             Requested size: 123.48398pt x 123.48483pt.
  [2]
 File: figure/BC_T1_Ortho.png Graphic file (type png)
  <use figure/BC_T1_Ortho.png>
-Package pdftex.def Info: figure/BC_T1_Ortho.png used on input line 184.
+Package pdftex.def Info: figure/BC_T1_Ortho.png used on input line 201.
 (pdftex.def)             Requested size: 123.48398pt x 123.47858pt.
 
-<figure/FLAIR_Ortho_A_FLIRT.png, id=169, 481.8pt x 481.8pt>
+<figure/FLAIR_Ortho_A_FLIRT.png, id=177, 481.8pt x 481.8pt>
 File: figure/FLAIR_Ortho_A_FLIRT.png Graphic file (type png)
 
 <use figure/FLAIR_Ortho_A_FLIRT.png>
-Package pdftex.def Info: figure/FLAIR_Ortho_A_FLIRT.png used on input line 189.
+Package pdftex.def Info: figure/FLAIR_Ortho_A_FLIRT.png used on input line 206.
 
 (pdftex.def)             Requested size: 123.48398pt x 123.47858pt.
 
-<figure/plot_flair_t1.pdf, id=170, 505.89pt x 505.89pt>
+<figure/plot_flair_t1.pdf, id=178, 505.89pt x 505.89pt>
 File: figure/plot_flair_t1.pdf Graphic file (type pdf)
 
 <use figure/plot_flair_t1.pdf>
-Package pdftex.def Info: figure/plot_flair_t1.pdf used on input line 194.
+Package pdftex.def Info: figure/plot_flair_t1.pdf used on input line 211.
 (pdftex.def)             Requested size: 123.48398pt x 123.48483pt.
  [3 <./figure/T1_Ortho.png> <./figure/BC_T1_Ortho.png> <./figure/plot_bc_data.p
 df>]
-LaTeX Font Info:    Try loading font information for TS1+zi4 on input line 223.
+<Reg_Figure_Option1.png, id=202, 858.5676pt x 462.7689pt>
+File: Reg_Figure_Option1.png Graphic file (type png)
+
+<use Reg_Figure_Option1.png>
+Package pdftex.def Info: Reg_Figure_Option1.png used on input line 222.
+(pdftex.def)             Requested size: 358.50227pt x 193.2318pt.
+LaTeX Font Info:    Try loading font information for TS1+zi4 on input line 238.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
 File: ts1zi4.fd 2014/06/22 Fontinst v1.933 font definitions for TS1/zi4.
 )
 LaTeX Font Info:    Font shape `TS1/zi4/m/n' will be
-(Font)              scaled to size 9.18004pt on input line 223.
+(Font)              scaled to size 9.18004pt on input line 238.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `zi4' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-<figure/BC_T1_Ortho_A.png, id=195, 481.8pt x 481.8pt>
+ [4 <./figure/FLAIR_Ortho_A_FLIRT.png> <./figure/plot_flair_t1.pdf> <./Reg_Figu
+re_Option1.png>] <figure/BC_T1_Ortho_A.png, id=221, 481.8pt x 481.8pt>
 File: figure/BC_T1_Ortho_A.png Graphic file (type png)
 
 <use figure/BC_T1_Ortho_A.png>
-Package pdftex.def Info: figure/BC_T1_Ortho_A.png used on input line 239.
+Package pdftex.def Info: figure/BC_T1_Ortho_A.png used on input line 254.
 (pdftex.def)             Requested size: 191.2008pt x 191.19478pt.
 
-<figure/FLIRT_Followup_T1.png, id=196, 481.8pt x 481.8pt>
+<figure/FLIRT_Followup_T1.png, id=222, 481.8pt x 481.8pt>
 File: figure/FLIRT_Followup_T1.png Graphic file (type png)
 
 <use figure/FLIRT_Followup_T1.png>
-Package pdftex.def Info: figure/FLIRT_Followup_T1.png used on input line 244.
+Package pdftex.def Info: figure/FLIRT_Followup_T1.png used on input line 259.
 (pdftex.def)             Requested size: 191.2008pt x 191.19478pt.
- [4 <./figure/FLAIR_Ortho_A_FLIRT.png> <./figure/plot_flair_t1.pdf>]
+
 
 LaTeX Font Warning: Font shape `T1/zi4/m/it' undefined
-(Font)              using `T1/zi4/m/n' instead on input line 256.
+(Font)              using `T1/zi4/m/n' instead on input line 271.
 
 LaTeX Font Info:    Font shape `T1/zi4/m/it' will be
-(Font)              scaled to size 9.18004pt on input line 257.
+(Font)              scaled to size 9.18004pt on input line 272.
 Package microtype Info: Character `textendash ' is missing
 (microtype)             in font `T1/zi4/m/it/9'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/m/it/9'.
 (microtype)             Ignoring protrusion settings for this character.
-<figure/BC_T1_Ortho_A_FLIRT.png, id=225, 481.8pt x 481.8pt>
+<figure/BC_T1_Ortho_A_FLIRT.png, id=228, 481.8pt x 481.8pt>
 File: figure/BC_T1_Ortho_A_FLIRT.png Graphic file (type png)
 
 <use figure/BC_T1_Ortho_A_FLIRT.png>
-Package pdftex.def Info: figure/BC_T1_Ortho_A_FLIRT.png used on input line 273.
+Package pdftex.def Info: figure/BC_T1_Ortho_A_FLIRT.png used on input line 288.
 
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/01-Baseline_T2_FSL_BiasCorrect_rigid_to_T1.png, id=226, 481.8pt x 481.8
+<figure/01-Baseline_T2_FSL_BiasCorrect_rigid_to_T1.png, id=229, 481.8pt x 481.8
 pt>
 File: figure/01-Baseline_T2_FSL_BiasCorrect_rigid_to_T1.png Graphic file (type 
 png)
  <use figure/01-Baseline_T2_FSL_BiasCorrect_rigid_to_T1.png>
 Package pdftex.def Info: figure/01-Baseline_T2_FSL_BiasCorrect_rigid_to_T1.png 
-used on input line 278.
+used on input line 293.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.png, id=227, 481.8pt x 48
+<figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.png, id=230, 481.8pt x 48
 1.8pt>
 File: figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.png Graphic file (ty
 pe png)
  <use figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.png>
 Package pdftex.def Info: figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.p
-ng used on input line 283.
+ng used on input line 298.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/01-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png, id=228, 481.8pt x 481.8
+<figure/01-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png, id=231, 481.8pt x 481.8
 pt>
 File: figure/01-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png Graphic file (type 
 png)
  <use figure/01-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png>
 Package pdftex.def Info: figure/01-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png 
-used on input line 288.
+used on input line 303.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/E_FLIRT_Followup_T1.png, id=229, 481.8pt x 481.8pt>
+<figure/E_FLIRT_Followup_T1.png, id=232, 481.8pt x 481.8pt>
 File: figure/E_FLIRT_Followup_T1.png Graphic file (type png)
 
 <use figure/E_FLIRT_Followup_T1.png>
-Package pdftex.def Info: figure/E_FLIRT_Followup_T1.png used on input line 293.
+Package pdftex.def Info: figure/E_FLIRT_Followup_T1.png used on input line 308.
 
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.png, id=230, 481.8pt x 4
+<figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.png, id=233, 481.8pt x 4
 81.8pt>
 File: figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.png Graphic file (t
 ype png)
  <use figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.png>
 Package pdftex.def Info: figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.
-png used on input line 298.
+png used on input line 313.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/01-Followup_FLAIR_FSL_BiasCorrect_rigid_to_BaseT1.png, id=231, 481.8pt 
+<figure/01-Followup_FLAIR_FSL_BiasCorrect_rigid_to_BaseT1.png, id=234, 481.8pt 
 x 481.8pt>
 File: figure/01-Followup_FLAIR_FSL_BiasCorrect_rigid_to_BaseT1.png Graphic file
  (type png)
  <use figure/01-Followup_FLAIR_FSL_BiasCorrect_rigid_to_BaseT1.png>
 Package pdftex.def Info: figure/01-Followup_FLAIR_FSL_BiasCorrect_rigid_to_Base
-T1.png used on input line 303.
+T1.png used on input line 318.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/01-Followup_PD_FSL_BiasCorrect_rigid_to_BaseT1.png, id=232, 481.8pt x 4
+<figure/01-Followup_PD_FSL_BiasCorrect_rigid_to_BaseT1.png, id=235, 481.8pt x 4
 81.8pt>
 File: figure/01-Followup_PD_FSL_BiasCorrect_rigid_to_BaseT1.png Graphic file (t
 ype png)
  <use figure/01-Followup_PD_FSL_BiasCorrect_rigid_to_BaseT1.png>
 Package pdftex.def Info: figure/01-Followup_PD_FSL_BiasCorrect_rigid_to_BaseT1.
-png used on input line 308.
+png used on input line 323.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/plot_bet_mask.png, id=242, 481.8pt x 481.8pt>
+[5 <./figure/BC_T1_Ortho_A.png> <./figure/FLIRT_Followup_T1.png>]
+<figure/plot_bet_mask.png, id=258, 481.8pt x 481.8pt>
 File: figure/plot_bet_mask.png Graphic file (type png)
 
 <use figure/plot_bet_mask.png>
-Package pdftex.def Info: figure/plot_bet_mask.png used on input line 341.
+Package pdftex.def Info: figure/plot_bet_mask.png used on input line 356.
 (pdftex.def)             Requested size: 191.2008pt x 191.19478pt.
 
-<figure/plot_bet_brain.png, id=243, 481.8pt x 481.8pt>
+<figure/plot_bet_brain.png, id=259, 481.8pt x 481.8pt>
 File: figure/plot_bet_brain.png Graphic file (type png)
 
 <use figure/plot_bet_brain.png>
-Package pdftex.def Info: figure/plot_bet_brain.png used on input line 346.
+Package pdftex.def Info: figure/plot_bet_brain.png used on input line 361.
 (pdftex.def)             Requested size: 191.2008pt x 191.19478pt.
- [5 <./figure/BC_T1_Ortho_A.png> <./figure/FLIRT_Followup_T1.png>] [6 <./figure
-/BC_T1_Ortho_A_FLIRT.png> <./figure/01-Baseline_T2_FSL_BiasCorrect_rigid_to_T1.
-png> <./figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.png> <./figure/01-
-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png> <./figure/E_FLIRT_Followup_T1.png>
- <./figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.png> <./figure/01-Fol
-lowup_FLAIR_FSL_BiasCorrect_rigid_to_BaseT1.png> <./figure/01-Followup_PD_FSL_B
-iasCorrect_rigid_to_BaseT1.png> <./figure/plot_bet_mask.png> <./figure/plot_bet
-_brain.png>]
-<figure/MNI_Warp_Slice_25.png, id=297, 481.8pt x 481.8pt>
+ [6 <./figure/BC_T1_Ortho_A_FLIRT.png> <./figure/01-Baseline_T2_FSL_BiasCorrect
+_rigid_to_T1.png> <./figure/01-Baseline_FLAIR_FSL_BiasCorrect_rigid_to_T1.png> 
+<./figure/01-Baseline_PD_FSL_BiasCorrect_rigid_to_T1.png> <./figure/E_FLIRT_Fol
+lowup_T1.png> <./figure/01-Followup_T2_FSL_BiasCorrect_rigid_to_BaseT1.png> <./
+figure/01-Followup_FLAIR_FSL_BiasCorrect_rigid_to_BaseT1.png> <./figure/01-Foll
+owup_PD_FSL_BiasCorrect_rigid_to_BaseT1.png>]
+<figure/MNI_Warp_Slice_25.png, id=305, 481.8pt x 481.8pt>
 File: figure/MNI_Warp_Slice_25.png Graphic file (type png)
 
 <use figure/MNI_Warp_Slice_25.png>
-Package pdftex.def Info: figure/MNI_Warp_Slice_25.png used on input line 413.
+Package pdftex.def Info: figure/MNI_Warp_Slice_25.png used on input line 428.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/T1_MNI_Ortho_Slice_25.png, id=298, 481.8pt x 481.8pt>
+<figure/T1_MNI_Ortho_Slice_25.png, id=306, 481.8pt x 481.8pt>
 File: figure/T1_MNI_Ortho_Slice_25.png Graphic file (type png)
 
 <use figure/T1_MNI_Ortho_Slice_25.png>
-Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_25.png used on input line 41
-7.
+Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_25.png used on input line 43
+2.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/MNI_Warp_Slice_45.png, id=299, 481.8pt x 481.8pt>
+<figure/MNI_Warp_Slice_45.png, id=307, 481.8pt x 481.8pt>
 File: figure/MNI_Warp_Slice_45.png Graphic file (type png)
 
 <use figure/MNI_Warp_Slice_45.png>
-Package pdftex.def Info: figure/MNI_Warp_Slice_45.png used on input line 421.
+Package pdftex.def Info: figure/MNI_Warp_Slice_45.png used on input line 436.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/T1_MNI_Ortho_Slice_45.png, id=300, 481.8pt x 481.8pt>
+<figure/T1_MNI_Ortho_Slice_45.png, id=308, 481.8pt x 481.8pt>
 File: figure/T1_MNI_Ortho_Slice_45.png Graphic file (type png)
 
 <use figure/T1_MNI_Ortho_Slice_45.png>
-Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_45.png used on input line 42
-5.
+Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_45.png used on input line 44
+0.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/MNI_Warp_Slice_92.png, id=301, 481.8pt x 481.8pt>
+<figure/MNI_Warp_Slice_92.png, id=309, 481.8pt x 481.8pt>
 File: figure/MNI_Warp_Slice_92.png Graphic file (type png)
 
 <use figure/MNI_Warp_Slice_92.png>
-Package pdftex.def Info: figure/MNI_Warp_Slice_92.png used on input line 430.
+Package pdftex.def Info: figure/MNI_Warp_Slice_92.png used on input line 445.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/T1_MNI_Ortho_Slice_92.png, id=302, 481.8pt x 481.8pt>
+<figure/T1_MNI_Ortho_Slice_92.png, id=310, 481.8pt x 481.8pt>
 File: figure/T1_MNI_Ortho_Slice_92.png Graphic file (type png)
 
 <use figure/T1_MNI_Ortho_Slice_92.png>
-Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_92.png used on input line 43
-4.
+Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_92.png used on input line 44
+9.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/MNI_Warp_Slice_137.png, id=303, 481.8pt x 481.8pt>
+<figure/MNI_Warp_Slice_137.png, id=311, 481.8pt x 481.8pt>
 File: figure/MNI_Warp_Slice_137.png Graphic file (type png)
 
 <use figure/MNI_Warp_Slice_137.png>
-Package pdftex.def Info: figure/MNI_Warp_Slice_137.png used on input line 438.
+Package pdftex.def Info: figure/MNI_Warp_Slice_137.png used on input line 453.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
 
-<figure/T1_MNI_Ortho_Slice_137.png, id=304, 481.8pt x 481.8pt>
+<figure/T1_MNI_Ortho_Slice_137.png, id=312, 481.8pt x 481.8pt>
 File: figure/T1_MNI_Ortho_Slice_137.png Graphic file (type png)
 
 <use figure/T1_MNI_Ortho_Slice_137.png>
 Package pdftex.def Info: figure/T1_MNI_Ortho_Slice_137.png used on input line 4
-42.
+57.
 (pdftex.def)             Requested size: 97.591pt x 97.58601pt.
- [7]
-<figure/Bet_Brain_A.png, id=363, 481.8pt x 481.8pt>
+ [7 <./figure/plot_bet_mask.png> <./figure/plot_bet_brain.png>] <figure/Bet_Bra
+in_A.png, id=372, 481.8pt x 481.8pt>
 File: figure/Bet_Brain_A.png Graphic file (type png)
 
 <use figure/Bet_Brain_A.png>
-Package pdftex.def Info: figure/Bet_Brain_A.png used on input line 499.
+Package pdftex.def Info: figure/Bet_Brain_A.png used on input line 518.
 (pdftex.def)             Requested size: 191.2008pt x 191.19478pt.
 
-<figure/T1_Smooth_Img.png, id=364, 481.8pt x 481.8pt>
+<figure/T1_Smooth_Img.png, id=373, 481.8pt x 481.8pt>
 File: figure/T1_Smooth_Img.png Graphic file (type png)
 
 <use figure/T1_Smooth_Img.png>
-Package pdftex.def Info: figure/T1_Smooth_Img.png used on input line 504.
+Package pdftex.def Info: figure/T1_Smooth_Img.png used on input line 523.
 (pdftex.def)             Requested size: 191.2008pt x 191.19478pt.
  [8 <./figure/MNI_Warp_Slice_25.png> <./figure/T1_MNI_Ortho_Slice_25.png> <./fi
 gure/MNI_Warp_Slice_45.png> <./figure/T1_MNI_Ortho_Slice_45.png> <./figure/MNI_
@@ -1690,27 +1689,27 @@ e_137.png> <./figure/T1_MNI_Ortho_Slice_137.png>] [9 <./figure/Bet_Brain_A.png>
 \openout6 = `RJwrapper.brf'.
 
  [10]
-Underfull \hbox (badness 2591) in paragraph at lines 82--82
+Underfull \hbox (badness 2591) in paragraph at lines 92--92
 []\T1/ppl/m/n/9 (+20) T. J. Hastie and R. J. Tib-shi-rani.  \T1/ppl/m/it/9 (+20
 ) Gen-er-al-ized ad-di-tive mod-els\T1/ppl/m/n/9 (+20) , vol-ume 43.  CRC Press
 ,
  []
 
 [11]
-Underfull \hbox (badness 2547) in paragraph at lines 183--183
+Underfull \hbox (badness 2547) in paragraph at lines 193--193
 []\T1/ppl/m/n/9 (+20) H. Wick-ham.  \T1/ppl/m/it/9 (+20) gg-plot2: el-e-gant gr
 aph-ics for data anal-y-sis\T1/ppl/m/n/9 (+20) .  Springer, 2009.  URL [][]$\T1
 /zi4/m/it/9 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
 \T1/zi4/m/it/9 / / books . google . com / books ? hl = en & lr = &id = bes -[] 
 AAAAQBAJ & oi = fnd & pg = PR5 & dq = ggplot2 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
 \T1/zi4/m/it/9 +elegant + graphics + for + data + analysis & ots = SA8 _ QA6NOO
  & sig = iAb1q3tX5ZkAh0lUHl2uPiySFdI$[][]\T1/ppl/m/n/9 (+20) .
  []
@@ -1724,7 +1723,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `RJwrapper.out' has not changed.
 (rerunfilecheck)             Checksum: E7F34F5A68F8D1CC272E5D70574C65AE;1018.
 Package rerunfilecheck Info: File `RJwrapper.brf' has not changed.
-(rerunfilecheck)             Checksum: A66A6C7759C65A180A432BEE889A8106;1657.
+(rerunfilecheck)             Checksum: F14AA4571E8893812458A86309BFD727;1709.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1732,27 +1731,28 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 24601 strings out of 493108
- 469058 string characters out of 6134847
- 594784 words of memory out of 5000000
- 27248 multiletter control sequences out of 15000+600000
- 40310 words of font info for 192 fonts, out of 8000000 for 9000
+ 24620 strings out of 493108
+ 469426 string characters out of 6134847
+ 595153 words of memory out of 5000000
+ 27261 multiletter control sequences out of 15000+600000
+ 42012 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,67p,1013b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,67p,1111b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}{/
 usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{/usr
 /local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/
 2014/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb></usr/local
 /texlive/2014/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on RJwrapper.pdf (12 pages, 2067254 bytes).
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/
+2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on RJwrapper.pdf (12 pages, 3802416 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 405 compressed objects within 5 object streams
- 92 named destinations out of 1000 (max. 500000)
- 31492 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 528 PDF objects out of 1000 (max. 8388607)
+ 417 compressed objects within 5 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 32009 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -46,11 +46,15 @@ remake_img = function(img, arr){
   img@.Data = arr
   img
 }
-imgs = lapply(imgs, function(img) {
+nimg = names(imgs)
+imgs = mapply(function(img, fup) {
 	limits = 256/2 + c(-1, 1) * 80
-	arr = img[ limits[1]:limits[2], ,]
-	remake_img(img, arr)
-})
+	ylimits = 1:256
+	if (fup) ylimits = 20:256
+	arr = img[ limits[1]:limits[2], ylimits,]
+	i2 = remake_img(img, arr)
+	i2
+}, imgs, grepl("Followup", nimg))
 
 
 pngs = file.path(resdir, 
@@ -62,7 +66,7 @@ mapply(function(img, mod, pngname){
 	png(pngname, type="cairo", height=7, width=6.5, 
 		res=600, units= "in")
 	image.nifti(robust_window(img), z = z, plot.type="single")
-	title(main = mod, col.main= "white", cex.main = 2)
+	title(main = mod, col.main= "white", cex.main = 4)
 	dev.off()
 
 }, imgs, modes, pngs)
